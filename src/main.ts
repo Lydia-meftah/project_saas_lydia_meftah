@@ -1,0 +1,1 @@
+console.log('Spark & Marnee SaaS frontend initialized');
